@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ernesto/Universidad/Programas/pruebaGit/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/pruebaGit.dir/main.c.o   -c /home/ernesto/Universidad/Programas/pruebaGit/main.c",
+  "file": "/home/ernesto/Universidad/Programas/pruebaGit/main.c"
+},
+{
+  "directory": "/home/ernesto/Universidad/Programas/pruebaGit/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/pruebaGit.dir/pruebaGit.c.o   -c /home/ernesto/Universidad/Programas/pruebaGit/pruebaGit.c",
+  "file": "/home/ernesto/Universidad/Programas/pruebaGit/pruebaGit.c"
+}
+]

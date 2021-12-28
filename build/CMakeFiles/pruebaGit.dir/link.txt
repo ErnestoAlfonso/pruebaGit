@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-gcc-9 -g  -rdynamic CMakeFiles/pruebaGit.dir/main.c.o CMakeFiles/pruebaGit.dir/pruebaGit.c.o  -o pruebaGit 
